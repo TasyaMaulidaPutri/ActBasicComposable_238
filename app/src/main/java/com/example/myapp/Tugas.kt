@@ -65,6 +65,18 @@ fun Tugas( modifier: Modifier = Modifier) {
                 fontWeight = FontWeight.Bold,
                 color = Color.Black
             )
+            Text(
+                text = "Basna Yanti Djakiman",
+                fontSize = 16.sp,
+                fontWeight = FontWeight.Bold,
+                color = Color.LightGray
+            )
+            Text(
+                text = "20240140238",
+                fontSize = 20.sp,
+                fontWeight = FontWeight.Bold,
+                color = Color.Black
+            )
         }
     }
 }
